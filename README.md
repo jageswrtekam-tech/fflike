@@ -1,4 +1,4 @@
-﻿# 🔍 Free Fire Like Bot
+pip install -r requirements.txt﻿# 🔍 Free Fire Like Bot
 
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
@@ -159,5 +159,6 @@ This project is licensed under the MIT License. Feel free to use and modify it.
 ## Author
 
 [Paul Alfredo](https://github.com/paulafredo)
+
 
 
